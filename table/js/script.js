@@ -121,7 +121,6 @@ function buy_now(event) {
     });
     alert("Your Item has added in CART \n " + data);
 
-
 };
 function add_rows() {
 
